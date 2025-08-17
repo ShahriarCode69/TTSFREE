@@ -1,9 +1,11 @@
-
+import Hero from "./components/Hero"
 
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <Hero/>
+    </>
   )
 }
 
